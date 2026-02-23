@@ -1,0 +1,4 @@
+interface:
+  display_name: "LangGraph工作流助手"
+  short_description: "基于官方最佳实践开发、调试和优化 LangGraph 工作流"
+  default_prompt: "请帮助我基于 LangGraph 设计并实现一个可测试的图工作流"
